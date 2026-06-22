@@ -95,3 +95,6 @@ https://colab.research.google.com/github/EgemenYapucu/DataScienceExercises/blob/
 ### Notes
 Some notebooks may depend on external datasets, Google Drive files, or Colab-specific paths.
 If a dataset link is unavailable or private, the notebook may require updating the data source before running all cells.
+
+### Purpose of This Repository
+The purpose of this repository is to document my learning and practice in data science, data mining, machine learning, and big data technologies. It also serves as a portfolio of notebook-based exercises showing my ability to work with datasets, build analysis workflows, and experiment with different data science tools.
