@@ -87,3 +87,7 @@ You can open a notebook in Colab by replacing the notebook name in the link belo
 
 ```text
 https://colab.research.google.com/github/EgemenYapucu/DataScienceExercises/blob/main/NOTEBOOK_NAME.ipynb
+
+###Notes
+Some notebooks may depend on external datasets, Google Drive files, or Colab-specific paths.
+If a dataset link is unavailable or private, the notebook may require updating the data source before running all cells.
